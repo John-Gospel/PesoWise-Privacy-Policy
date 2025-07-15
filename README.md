@@ -15,7 +15,7 @@ This summary highlights important points from our Privacy Notice. You can view d
 
 ### What personal information do we process?
 We may collect personal information depending on how you interact with us, the Services, the choices you make, and the features you use.  
-Learn more in [Personal Information We Collect](#personal-information-we-collect)
+Learn more in [Personal Information We Collect](#1-what-information-do-we-collect)
 
 ### Do we process sensitive personal information?
 No, we do **not** process any special categories of sensitive data (e.g. racial/ethnic origins, religion, or orientation).  
@@ -29,19 +29,19 @@ We use your information to:
 - Communicate securely
 - Prevent fraud
 - Comply with legal obligations  
-Learn more in [How We Use Information](#how-we-use-information)
+Learn more in [How We Use Information](#2-how-do-we-process-your-information)
 
 ### When do we share your information?
 We share information **only in specific cases** and with select third parties, if required.  
-See details in [Sharing Your Information](#sharing-your-information)
+See details in [Sharing Your Information](#3-when-and-with-whom-do-we-share-your-personal-information)
 
 ### How do we keep information safe?
 We use technical and organizational safeguards (like Firebase authentication and Firestore rules), but no system is 100% secure.  
-More info in [Security Practices](#security-practices)
+More info in [Security Practices](#6-how-do-we-keep-your-information-safe)
 
 ### What are your rights?
 Depending on your location, you may have rights under local privacy laws to request access, correction, or deletion of your data.  
-Learn more in [Your Privacy Rights](#your-privacy-rights)
+Learn more in [Your Privacy Rights](#7-what-are-your-privacy-rights)
 
 ### How can you exercise your rights?
 Visit [PesoWise Contact Page](https://pel-d.vercel.app/contact) or email us directly. We will respond per applicable data laws.
